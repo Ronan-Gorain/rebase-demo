@@ -9,3 +9,7 @@ description:
   text: Digital Experience Manager gives you an agile customizable platform that
     manages your entire digital ecosystem to innovate and deliver great customer
 
+
+actions:
+  myNewFeature:
+    - log: hi
