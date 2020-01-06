@@ -12,4 +12,6 @@ description:
 
 actions:
   myNewFeature:
-    - log: hi
+    - log: hello
+    - cmd[*]: |-
+        echo "hello" > /dev/null
