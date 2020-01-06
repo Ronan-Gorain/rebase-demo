@@ -14,4 +14,4 @@ actions:
   myNewFeature:
     - log: hello
     - cmd[*]: |-
-        echo "hello" > /tmp/anotherFile
+        echo "hello" > /tmp/here
